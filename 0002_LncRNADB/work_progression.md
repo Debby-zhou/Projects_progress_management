@@ -5,17 +5,22 @@
 - [x] expression search contents
 - [x] logo background
 ## 2021.04.08 Thu.
-- [ ] genomic search contents
-- [ ] drafts realization
+- [x] genomic search contents
 ## 2021.04.09 Fri.
-- [ ] functional search conetents
-- [ ] drafts realization
-## 2021.04.13 Tue.
+- [x] functional search conetents
+## 2021.04.15 Thu.
 - [ ] SNP browse contents
 - [ ] QTL browse contents
-## 2021.04.14 Wed.
+## 2021.04.16 Fri. 
+
 - [ ] drafts realization
 
+## 2021.04.17 Sat.
+
+- [ ] deafts realization 
+
+## 2021.04.19 Mon.
+
 > **First submission**
-## 2021.04.20 
+## 2021.04.20 Tue.
 > **Final submission**
