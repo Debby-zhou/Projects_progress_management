@@ -24,4 +24,4 @@
       * Tissue category
       * Target gene
 2. 完整資料庫使用功能
-3. 6/1最終繳交成果
+3. <font color=#ff0000>6/1最終繳交成果</font>
