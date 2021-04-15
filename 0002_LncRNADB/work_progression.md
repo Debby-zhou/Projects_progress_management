@@ -9,15 +9,23 @@
 ## 2021.04.09 Fri.
 - [x] functional search conetents
 ## 2021.04.15 Thu.
-- [ ] SNP browse contents
-- [ ] QTL browse contents
+- [x] SNP browse contents
+- [x] QTL browse contents
 ## 2021.04.16 Fri. 
 
-- [ ] drafts realization
+drafts realization
+
+- [ ] gene search
+- [ ] expression search
+- [ ] genomic search
 
 ## 2021.04.17 Sat.
 
-- [ ] deafts realization 
+deafts realization 
+
+- [ ] functional search
+- [ ] SNP browse
+- [ ] QTL browse
 
 ## 2021.04.19 Mon.
 
