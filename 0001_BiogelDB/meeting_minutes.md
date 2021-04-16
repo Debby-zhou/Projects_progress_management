@@ -14,7 +14,7 @@
 
 ## 2021.04.09
 ---
-1. analysis/也分成Predicted engine和Cell differentiation
+1. analysis/也分成**Predicted engine**和**Cell differentiation**
    
    - Predicted engine:
       * mechanical property
@@ -25,3 +25,10 @@
       * Target gene
 2. 完整資料庫使用功能
 3. <font color=#ff0000>6/1最終繳交成果</font>
+
+## 2021.04.17
+
+---
+
+1. 兩欄只能點選其中一欄，防止打架情況發生
+2. 下週一、二明確網站給予功能評估

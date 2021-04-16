@@ -13,10 +13,12 @@
 
 ### Website
 
-- [ ] 帳密更改
-- [ ] 網頁選取格式更改為Mechanical properties和Cell Differentiation
+- [x] 帳密更改
+- [x] 網頁選取格式更改為Mechanical properties和Cell Differentiation
 - [ ] analysis/更改呈現格式
   分成predicted engine和cell differentiation
+
+
 
 #### 待辦事項
 
