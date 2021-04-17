@@ -14,11 +14,27 @@
 ### Website
 
 - [x] 帳密更改
+
 - [x] 網頁選取格式更改為Mechanical properties和Cell Differentiation
+
+- [ ] 表格格式調整
+
+  - 表頭顯示選取data type和tissue
+
+  - 一頁顯示20筆資料
+  - 頁碼和對應頁數
+
+- [ ] 表格搜尋功能
+
 - [ ] analysis/更改呈現格式
   分成predicted engine和cell differentiation
 
+## 2021.04.16 Fri.
 
+### Website
+
+- [ ] experiment/單選點擊選取、再點擊取消選取
+- [ ] experiment/點選某一項其他項便無法點選
 
 #### 待辦事項
 
