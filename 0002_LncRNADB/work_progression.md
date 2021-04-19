@@ -11,24 +11,16 @@
 ## 2021.04.15 Thu.
 - [x] SNP browse contents
 - [x] QTL browse contents
-## 2021.04.16 Fri. 
+## 2021.04.19 Mon. 
 
 drafts realization
 
-- [ ] gene search
-- [ ] expression search
+- [x] gene search
+- [x] expression search
 - [ ] genomic search
-
-## 2021.04.17 Sat.
-
-deafts realization 
-
 - [ ] functional search
 - [ ] SNP browse
 - [ ] QTL browse
 
-## 2021.04.19 Mon.
-
-> **First submission**
 ## 2021.04.20 Tue.
-> **Final submission**
+> <font color=#ff0000>**First submission**</font>
