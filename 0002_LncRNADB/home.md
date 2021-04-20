@@ -32,3 +32,21 @@ Version I
   
     ![深灰底圖](picture/DarkBG.png)
     ![淺灰底圖](picture/LightBG.png)
+
+
+
+- Gene search
+
+![gene search](picture/gene search.png)
+
+- Expression search
+
+![expression search](picture/expression search.png)
+
+- Functional search
+
+![functional search](picture/functional search.png)
+
+- Genomic search
+
+![genomic search](picture/genomic search.png)

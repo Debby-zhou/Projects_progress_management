@@ -17,8 +17,8 @@ drafts realization
 
 - [x] gene search
 - [x] expression search
-- [ ] genomic search
-- [ ] functional search
+- [x] genomic search
+- [x] functional search
 - [ ] SNP browse
 - [ ] QTL browse
 
