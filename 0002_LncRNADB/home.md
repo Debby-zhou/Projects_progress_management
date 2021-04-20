@@ -37,16 +37,16 @@ Version I
 
 - Gene search
 
-![gene search](picture/gene search.png)
+![gene search](picture/Gene search.png)
 
 - Expression search
 
-![expression search](picture/expression search.png)
+![expression search](picture/Expression search.png)
 
 - Functional search
 
-![functional search](picture/functional search.png)
+![functional search](picture/Functional search.png)
 
 - Genomic search
 
-![genomic search](picture/genomic search.png)
+![genomic search](picture/Genomic search.png)
