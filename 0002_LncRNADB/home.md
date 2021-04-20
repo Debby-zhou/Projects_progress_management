@@ -37,16 +37,28 @@ Version I
 
 - Gene search
 
-![gene search](picture/gene_search.png)
+  ![gene search](picture/gene_search.png)
 
 - Expression search
 
-![expression search](picture/expression_search.png)
+  ![expression search](picture/expression_search.png)
 
 - Functional search
 
-![functional search](picture/functional_search.png)
+  ![functional search](picture/functional_search.png)
 
 - Genomic search
 
-![genomic search](picture/genomic_search.png)
+  ![genomic search](picture/genomic_search.png)
+
+- SNP browse
+
+  ![SNP browse](picture/SNP_browse.png)
+
+- QTL browse
+
+  ![QTL browse](picture/QTL_browse.png)
+
+整體：
+
+![home overview](picture/home_overview.png)

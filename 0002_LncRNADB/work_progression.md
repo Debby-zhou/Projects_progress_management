@@ -19,8 +19,8 @@ drafts realization
 - [x] expression search
 - [x] genomic search
 - [x] functional search
-- [ ] SNP browse
-- [ ] QTL browse
+- [x] SNP browse
+- [x] QTL browse
 
 ## 2021.04.20 Tue.
 > <font color=#ff0000>**First submission**</font>
