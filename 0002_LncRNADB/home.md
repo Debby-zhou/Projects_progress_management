@@ -16,49 +16,15 @@
 <pre>SNP Browse and QTL Browse will be added in the future.</pre>
 
 ### ▪️ 全覽圖設計
-Version I
+
 <font color=#FF0000>Deadline: 2021.04.20</font>
 
-- 設計風格：
-  
-  ![ ](picture/function_%20overview.png)
+### Results
 
-- Logo底圖：
-  - 淺灰為主，深灰為輔
-  
-  - 底圖大小：300*300px
-  
-  - Demo：
-  
-    ![深灰底圖](picture/DarkBG.png)
-    ![淺灰底圖](picture/LightBG.png)
+Version I
 
+![home_review_1](picture/Version1/home_overview.png)
 
+Version II
 
-- Gene search
-
-  ![gene search](picture/gene_search.png)
-
-- Expression search
-
-  ![expression search](picture/expression_search.png)
-
-- Functional search
-
-  ![functional search](picture/functional_search.png)
-
-- Genomic search
-
-  ![genomic search](picture/genomic_search.png)
-
-- SNP browse
-
-  ![SNP browse](picture/SNP_browse.png)
-
-- QTL browse
-
-  ![QTL browse](picture/QTL_browse.png)
-
-整體：
-
-![home overview](picture/home_overview.png)
+![home_overview_2](picture/Version2/home_overview_2.png)

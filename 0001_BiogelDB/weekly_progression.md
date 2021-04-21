@@ -38,8 +38,8 @@
 
 #### 待辦事項
 
-- [ ] http更改為https(81 port change into 443 port)
+- [ ] http更改為https(80 port change into 443 port)
 - [ ] https with SSL varification
-- [ ] db.smagel.nchc.org replace the ip address
+- [x] db.smagel.nchc.org replace the ip address
 - [ ] 添加session function紀錄使用者
 
