@@ -30,3 +30,8 @@ Version II
 - Gene search的勾勾更換
 
 ![home_overview_2](picture/Version2/home_overview_2.png)
+
+- 背景更改為透明
+- 去邊框
+
+![home_overview_2.1](picture/Version2/home_overview_2.1.png)
