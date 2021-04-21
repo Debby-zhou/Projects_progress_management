@@ -10,7 +10,6 @@
    > - marker of modification 
 4. **Functional Network**: miRNA regulation, co-expression
    
-   > miRNA regulation指lncRNA會和Ago結合，但其序列和Ago active site的序列mismatch，故會影響其他miRNA作用。
 5. **SNP Browse**
 6. **QTL Browse**: 數量基因座代表在genome上和此lncRNA相關的其他基因表現量。
 <pre>SNP Browse and QTL Browse will be added in the future.</pre>
@@ -26,5 +25,8 @@ Version I
 ![home_review_1](picture/Version1/home_overview.png)
 
 Version II
+
+- 底圖更換成白底與#0C5D69邊框
+- Gene search的勾勾更換
 
 ![home_overview_2](picture/Version2/home_overview_2.png)
