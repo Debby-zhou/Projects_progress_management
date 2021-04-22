@@ -29,7 +29,20 @@ drafts realization
 
 - [x] 更改成網頁可用的圖檔
 
-## 202.04.27 Tue.
+## 2021.04.22 Thu.
+
+> <font color=#ff0000>圖檔內容鑑定</font>
+
+## 2021.04.23 Fri.
+
+- [ ] expression search的stage和tissue再多增加六個項目
 
 增加六個物種的icons
+
+- [ ] Arabidopsis
+- [ ] Rice
+- [ ] Maize
+- [ ] Medicago
+- [ ] Tomato
+- [ ] Soybean
 
