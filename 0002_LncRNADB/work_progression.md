@@ -35,7 +35,7 @@ drafts realization
 
 ## 2021.04.23 Fri.
 
-- [ ] expression search的stage和tissue再多增加六個項目
+- [x] expression search的stage和tissue再多增加六個項目
 
 增加六個物種的icons
 

@@ -20,11 +20,11 @@
 
 ### Results
 
-Version I
+#### Version I
 
 ![home_review_1](picture/Version1/home_overview.png)
 
-Version II
+#### Version II
 
 - 底圖更換成白底與#0C5D69邊框
 - Gene search的勾勾更換
@@ -34,4 +34,4 @@ Version II
 - 背景更改為透明
 - 去邊框
 
-![home_overview_2.1](picture/Version2/home_overview_2.1.png)
+![home_overview_2_t](picture/Version2/home_overview_2_t.png)
