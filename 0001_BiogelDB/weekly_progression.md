@@ -26,7 +26,7 @@
 
 - [x] 表格搜尋功能
 
-- [ ] analysis/更改呈現格式
+- [x] analysis/更改呈現格式
   分成predicted engine和cell differentiation
 
 ## 2021.04.16 Fri.
@@ -35,11 +35,4 @@
 
 - [ ] experiment/單選點擊選取、再點擊取消選取
 - [ ] experiment/點選某一項其他項便無法點選
-
-#### 待辦事項
-
-- [ ] http更改為https(80 port change into 443 port)
-- [ ] https with SSL varification
-- [x] db.smagel.nchc.org replace the ip address
-- [ ] 添加session function紀錄使用者
-
+- [ ] nginx反向代理
