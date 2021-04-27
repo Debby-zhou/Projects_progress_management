@@ -33,6 +33,8 @@
 
 ### Website
 
-- [ ] experiment/單選點擊選取、再點擊取消選取
-- [ ] experiment/點選某一項其他項便無法點選
+- [x] experiment/單選點擊選取、再點擊取消選取
+- [x] experiment/點選某一項其他項便無法點選
 - [ ] nginx反向代理
+- [ ] 使用者登入
+- [ ] 使用者身份註冊
