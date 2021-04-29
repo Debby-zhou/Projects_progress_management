@@ -35,6 +35,14 @@
 
 - [x] experiment/單選點擊選取、再點擊取消選取
 - [x] experiment/點選某一項其他項便無法點選
-- [ ] nginx反向代理
+- [x] nginx反向代理
 - [ ] 使用者登入
 - [ ] 使用者身份註冊
+
+## 2021.04.29 Thu.
+
+### Website
+
+- [ ] ssl安全憑證
+- [ ] 所有網站使用https
+- [ ] upload進mariadb功能

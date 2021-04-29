@@ -41,7 +41,7 @@ drafts realization
 
 增加六個物種的icons
 
-- [ ] Arabidopsis
+- [x] Arabidopsis
 - [ ] Rice
 - [ ] Maize
 - [ ] Medicago
