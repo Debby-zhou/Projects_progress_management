@@ -37,13 +37,13 @@ drafts realization
 
 - [x] expression search的stage和tissue再多增加六個項目
 
-## 2021.04.28 Wed.
+## 2021.04.28 - 2021.05.05 Wed.
 
 增加六個物種的icons
 
 - [x] Arabidopsis
-- [ ] Rice
-- [ ] Maize
+- [x] Rice
+- [x] Maize
 - [ ] Medicago
 - [ ] Tomato
 - [ ] Soybean
