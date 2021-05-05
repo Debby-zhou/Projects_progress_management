@@ -35,3 +35,15 @@
 - 去邊框
 
 ![home_overview_2_t](picture/Version2/home_overview_2_t.png)
+
+### ▪️物種icon設計
+
+| 物種        | 圖示                                          |
+| ----------- | --------------------------------------------- |
+| Arabidopsis | ![Arabidopsis](picture/Icons/Arabidopsis.png) |
+| Maize       | ![Maize](picture/Icons/Maize.png)             |
+| Rice        | ![Rice](picture/Icons/Rice.png)               |
+| Medicago    | ![Medicago](picture/Icons/Medicago.png)       |
+| Tomato      | ![Tomato](picture/Icons/Tomato.png)           |
+| Soybean     | ![Soybean](picture/Icons/Soybean.png)         |
+

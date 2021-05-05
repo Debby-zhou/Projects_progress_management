@@ -44,7 +44,7 @@ drafts realization
 - [x] Arabidopsis
 - [x] Rice
 - [x] Maize
-- [ ] Medicago
-- [ ] Tomato
-- [ ] Soybean
+- [x] Medicago
+- [x] Tomato
+- [x] Soybean
 

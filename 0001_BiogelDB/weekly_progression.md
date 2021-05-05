@@ -43,6 +43,6 @@
 
 ### Website
 
-- [ ] ssl安全憑證
-- [ ] 所有網站使用https
+- [x] ssl安全憑證
+- [x] 所有網站使用https
 - [ ] upload進mariadb功能
