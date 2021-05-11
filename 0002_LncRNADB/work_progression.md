@@ -63,7 +63,7 @@ drafts realization
 
 ### Stage
 
-- [ ] Arabidopsis
+- [x] Arabidopsis
 - [ ] Rice
 - [ ] Maize
 - [ ] Medicago
