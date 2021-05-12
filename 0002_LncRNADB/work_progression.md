@@ -1,4 +1,5 @@
-# 工作進度
+# JustRNA工作進度
+###### tags: `工作進度`
 <pre>Function overview in home page</pre>
 ## 2021.04.07 Wed.
 - [x] gene search contents
@@ -60,9 +61,20 @@ drafts realization
 - [ ] Soybean
 
 ## 2021.05.13-2021.05.19 Wed.
+- [x] first version of 
+
+## 2021.05.20-2021.05.27
+
+### Tissue
+
+- [ ] Arabidopsis
+- [ ] Rice
+- [ ] Maize
+- [ ] Medicago
+- [ ] Tomato
+- [ ] Soybean
 
 ### Stage
-
 - [x] Arabidopsis
 - [ ] Rice
 - [ ] Maize
