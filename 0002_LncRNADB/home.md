@@ -1,7 +1,7 @@
 # lncRNA Database首頁
 ## 功能全覽圖
 ### 網站功能架構
-![](./picture/DB.png)
+![](picture/DB.png)
 1. **Gene Search**: BLAST, associated gene in the genome(network-like), <font color=#0000ff>experiments varification</font>
 2. **Expression Search**: Tissue-specific, Stage-specific
 3. **Genomic Browsing**: TF-binding sites, Epigenetic(Histone modification)
@@ -49,6 +49,9 @@
 
 ### 物種tissue設計
 #### Arabidopsis
+
+##### Including
+
 - [ ] aerial part
 - [ ] apical meristem
 - [ ] embryos
@@ -64,3 +67,7 @@
 - [ ] shoot
 - [ ] shoot apical meristem
 - [ ] siliques
+
+##### Result
+
+![Arabidopsis tissue](picture/Tissue/Arabidopsis tissue-01.jpg)

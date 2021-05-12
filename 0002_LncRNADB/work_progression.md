@@ -67,7 +67,7 @@ drafts realization
 
 ### Tissue
 
-- [ ] Arabidopsis
+- [x] Arabidopsis
 - [ ] Rice
 - [ ] Maize
 - [ ] Medicago
