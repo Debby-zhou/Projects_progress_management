@@ -38,14 +38,7 @@
 
 ### 物種icon設計
 
-| 物種        | 圖示                                          |
-| ----------- | --------------------------------------------- |
-| Arabidopsis | ![Arabidopsis](picture/Icons/Arabidopsis.png) |
-| Maize       | ![Maize](picture/Icons/Maize.png)             |
-| Rice        | ![Rice](picture/Icons/Rice.png)               |
-| Medicago    | ![Medicago](picture/Icons/Medicago.png)       |
-| Tomato      | ![Tomato](picture/Icons/Tomato.png)           |
-| Soybean     | ![Soybean](picture/Icons/Soybean.png)         |
+詳情請洽 picture/Icons/
 
 ### 物種tissue設計
 #### Arabidopsis
@@ -55,19 +48,19 @@
 - [ ] aerial part
 - [ ] apical meristem
 - [ ] embryos
-- [ ] floral bud
-- [ ] floral tissue
+- [x] floral bud
+- [x] floral tissue
 - [ ] hypocotyl tissue
-- [ ] inflorensences
-- [ ] inflorescence stem
-- [ ] leaf
-- [ ] leaves
-- [ ] pollen
-- [ ] root
-- [ ] shoot
-- [ ] shoot apical meristem
-- [ ] siliques
+- [x] inflorenscences
+- [x] inflorescence stem
+- [x] leaf
+- [x] leaves
+- [x] pollen
+- [x] root
+- [x] shoot
+- [x] shoot apical meristem
+- [x] siliques
 
 ##### Result
 
-![Arabidopsis tissue](picture/Tissue/Arabidopsis tissue-01.jpg)
+![Arabidopsis tissue](picture/Tissue/Arabidopsis_tissue-01.jpg)
