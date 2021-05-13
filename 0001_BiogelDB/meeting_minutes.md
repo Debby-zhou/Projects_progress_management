@@ -58,3 +58,13 @@
 1. 有限元素法
    前五項是參數設定，後三項是模擬結果
 2. 細胞自動機模擬（Automatic machine）
+
+## 2021.05.13
+
+---
+
+### simulation
+
+1. simulation/ picture layout
+2. mechanical parameter 依據時間給予table
+3. 所有資料庫會依照時間演進
