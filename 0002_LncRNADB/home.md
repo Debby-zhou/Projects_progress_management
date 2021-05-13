@@ -64,3 +64,5 @@
 ##### Result
 
 ![Arabidopsis tissue](picture/Tissue/Arabidopsis_tissue-01.jpg)
+
+> 改善鬚根的部分，應該更加擴散和鬚化，可以參考EFP browser。
