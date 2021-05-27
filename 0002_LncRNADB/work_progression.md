@@ -49,35 +49,17 @@ drafts realization
 - [x] Tomato
 - [x] Soybean
 
-## 2021.05.06 - 2021.05.12 Wed.
-
-### tissue
-
-- [ ] Arabidopsis
-- [ ] Rice
-- [ ] Maize
-- [ ] Medicago
-- [ ] Tomato
-- [ ] Soybean
-
-## 2021.05.13-2021.05.19 Wed.
-- [x] first version of 
+### Tissue
 
 ## 2021.05.20-2021.05.27
 
-### Tissue
-
 - [x] Arabidopsis
+
+## 2021.05.27-2021.06.03
+
 - [ ] Rice
 - [ ] Maize
 - [ ] Medicago
 - [ ] Tomato
 - [ ] Soybean
 
-### Stage
-- [x] Arabidopsis
-- [ ] Rice
-- [ ] Maize
-- [ ] Medicago
-- [ ] Tomato
-- [ ] Soybean
