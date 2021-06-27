@@ -79,11 +79,11 @@ V1
 - [ ] aerial  tissue
 - [ ] Alurone  layer
 - [ ] anthers 
-- [ ] blade
+- [x] blade
 - [ ] caryopsis
 - [ ] Crown
 - [ ] Endosperm
-- [ ] Flag  leaf
+- [x] Flag  leaf
 - [ ] florets
 - [ ] Flower
 - [ ] Gall  tissue
@@ -92,13 +92,13 @@ V1
 - [ ] milkripe  seeds
 - [ ] Nucellar  Epidermis
 - [ ] Ovular  vascular trace
-- [ ] panicles
+- [x] panicles
 - [ ] pistil
 - [ ] Pollen
-- [ ] Rice  spikelets
-- [ ] root
+- [x] Rice  spikelets
+- [x] root
 - [ ] shoot
-- [ ] shoot  base
+- [x] shoot  base
 - [ ] Stem
 - [ ] unicellular  zygote
 
@@ -111,9 +111,9 @@ V1
 ##### Including
 
 - [ ]  Fungal mycelia and maize stalk mixture
-- [ ]  leaf apex
+- [x]  leaf apex
 - [ ] anther
-- [ ] ear
+- [x] ear
 - [ ] tessels
 - [ ] aerial
 - [ ] aerial seedlings
@@ -136,18 +136,18 @@ V1
 - [ ] growth  zone
 - [ ] hypocotyl
 - [ ] inner  layer husk
-- [ ] maize  silk
+- [x] maize  silk
 - [ ] mature  female spikelets
 - [ ] mature  pollen
 - [ ] nucellus
 - [ ] pericarp
 - [ ] placento-chalazal  region
-- [ ] root
+- [x] root
 - [ ] Root  cortex
 - [ ] Root  elongation zone
 - [ ] Root  maturation zone
 - [ ] roothair
-- [ ] shoot
+- [x] shoot
 - [ ] shoot  apical meristem
 - [ ] sperm  cell
 - [ ] stomatal  division zone
