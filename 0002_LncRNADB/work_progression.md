@@ -57,8 +57,11 @@ drafts realization
 
 ## 2021.05.27-2021.06.03
 
-- [ ] Rice
-- [ ] Maize
+- [x] Rice
+- [x] Maize
+
+## 2021.06.29 Tue.
+
 - [ ] Medicago
 - [ ] Tomato
 - [ ] Soybean
